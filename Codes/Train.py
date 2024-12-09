@@ -20,12 +20,12 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.layers import PReLU
 
 # Paths for dataset
-train_images_path = "path/Polyp-dataset/trainx/" #gdrive/MyDrive/Polyp-dataset/trainx/
-train_masks_path = "path/Polyp-dataset/trainy/"  #"gdrive/MyDrive/Polyp-dataset/trainy/"
-test_images_path = "path/Polyp-dataset/testx/"   #"gdrive/MyDrive/Polyp-dataset/testx/"
-test_masks_path = "path/Polyp-dataset/testy/"    #"gdrive/MyDrive/Polyp-dataset/testy/"
-val_images_path = "path/Polyp-dataset/validationx/" #"gdrive/MyDrive/Polyp-dataset/validationx/"
-val_masks_path = "path/Polyp-dataset/validationy/"  #"gdrive/MyDrive/Polyp-dataset/validationy/"
+train_images_path = "path/Polyp-dataset/trainx/" #
+train_masks_path = "path/Polyp-dataset/trainy/"  #
+test_images_path = "path/Polyp-dataset/testx/"   
+test_masks_path = "path/Polyp-dataset/testy/"   
+val_images_path = "path/Polyp-dataset/validationx/" 
+val_masks_path = "path/Polyp-dataset/validationy/"  
 
 # Parameters
 IMAGE_SIZE = (60, 60)
