@@ -1,5 +1,5 @@
 # D2U-Net-Hybrid-U-Net
-D2U-Net: A Dual Path Hybrid UNet Architecture for Precise Medical Image Segmentation
+D2U-Net: A Dual Path Hybrid UNet Architecture for Precise Medical Image Segmentation.
 This repository contains the implementation of the D2U-Net: A Dual Path Hybrid UNet Architecture, as described in our paper. The model is designed for high-performance medical image segmentation tasks, such as brain tumor, skin lesion, and polyp segmentation. Furthermore, this code can be applied to wide range of meical image segmentation datasets. 
 
 Instructions: Clone the repository: git clone https://github.com/nooriahmed/D2U-Net-Hybrid-U-Net 
